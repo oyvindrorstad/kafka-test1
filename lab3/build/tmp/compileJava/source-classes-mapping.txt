@@ -1,0 +1,2 @@
+com/cloudurable/kafka/KafkaProducerExample.java
+ com.cloudurable.kafka.KafkaProducerExample
